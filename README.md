@@ -1,5 +1,7 @@
 # Island Memory & The RH Blind Zone
 
+![pic1](blind_zone.png)
+
 > *Do not hype. Do not lie. Just show.*
 
 A mathematical exploration of the **blind zone of pointwise log-convexity** on the Riemann critical line, alongside a continual-learning neural network architecture (**IslandNet**) constructed directly from the complex-analytic machinery that survives the retraction.
