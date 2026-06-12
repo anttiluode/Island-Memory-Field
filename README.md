@@ -35,10 +35,15 @@ $$F(s) = \sum_{k} \frac{C_k}{s - \rho_k}$$
 
 ---
 
-## 3. Repository Structure
+### 3. Repository Structure
 
-├── blind_zone_of_pointwise_convexity.md  # Detailed mathematical analysis and retraction statement├── rh_blind_zone.py                       # High-precision verification engine (mpmath) & counterexample verification├── island_net.py                         # PyTorch/NumPy core implementation of the Island Memory Network├── blind_zone.png                        # Plot displaying detection radii thresholds and the blind zone space└── island_memory.png                     # Diagram verifying task preservation across sequential optimization
----
+```text
+├── blind_zone_of_pointwise_convexity.md  # Detailed mathematical analysis and retraction statement
+├── rh_blind_zone.py                      # High-precision verification engine (mpmath) & counterexample verification
+├── island_net.py                         # PyTorch/NumPy core implementation of the Island Memory Network
+├── blind_zone.png                        # Plot displaying detection radii thresholds and the blind zone space
+└── island_memory.png                     # Diagram verifying task preservation across sequential optimization
+```
 
 ## 4. Getting Started
 
