@@ -19,6 +19,8 @@ This repository contains two interconnected tracks of research spanning analytic
 
 ## 2. Core Mathematical Architecture
 
+![pic2](island_memory.png)
+
 ### The Blind Zone Check
 The pointwise convexity metric evaluated along the critical line ($\sigma = 1/2$) is given by:
 
